@@ -2,9 +2,9 @@
 
 <hr>
 <div align="center">
-  <a href="https://github.com/Tkl02">
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=Tkl02&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="205" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tkl02&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/GuiiCorreia">
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=GuiiCorreia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="205" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiCorreia&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block">
  
@@ -25,7 +25,5 @@
   <a href="https://discord.gg/ggz9ftyE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
    <a href = "mailto:leonardofaustino0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-
-  ![Snake animation](https://github.com/Tkl02/Tkl02/blob/output/github-contribution-grid-snake.svg)
  
 </div>
