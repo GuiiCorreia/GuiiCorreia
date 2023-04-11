@@ -1,4 +1,5 @@
-## Oi meu nome é Guilherme Correia, sou estudante de Bacharelado em Ciências da Computanção!<img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30 px"> </h1>
+## Oi meu nome é Guilherme Correia, sou estudante de Bacharelado em Ciências da Computanção!
+<img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <hr>
 <div align="center">
