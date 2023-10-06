@@ -3,7 +3,7 @@
 
 ## Sobre mim
  - 💻 Atualmente faço projetos no CEIA em Automação de Processos e estudo sobre Segurança da Informação focado em vulnerabilidades.
- - 🎓 Sou academico em Ciência da Computação no IFGoiano - Campus Morrinhos, atualmente no 7° Periodo.
+ - 🎓 Sou academico em Ciência da Computação no IFGoiano - Campus Morrinhos, atualmente no 8° Periodo.
  - 🌱 Estou sempre aprendendo e me atualizando sobre as mais recentes tecnologias e melhores práticas para desenvolvimento.
  - ⚡️ Curto projetos desafiadores e colaborativos, e estou em busca de oportunidades para contribuir com a comunidade.
 
