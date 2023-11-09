@@ -1,5 +1,5 @@
 ## Olá! 👋
- - Sou Guilherme Correia, um desenvolvedor apaixonado por Segurança e Automação! Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade academica.
+ - Sou Guilherme Correia, um desenvolvedor apaixonado por Automação e Gestão! Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos e contribuições para a comunidade academica.
 
 ## Sobre mim
  - 💻 Atualmente faço projetos no CEIA em Automação de Processos e estudo sobre Machine Learning com foco em Computação em Nuvem.
